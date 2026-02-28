@@ -47,4 +47,4 @@ for filepath in list_of_files:
     else:
         logging.info(f"{filename} is already exists")
         
-#this is
+#this is a template for the project structure, it will create the necessary directories and files for the project. It checks if the file already exists and if it is empty, if not it will create an empty file.
